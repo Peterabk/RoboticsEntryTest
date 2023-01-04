@@ -1,0 +1,8 @@
+prefix=/home/p_boukas/catkin_ws/install
+
+Name: roboticEntry
+Description: Description of roboticEntry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
